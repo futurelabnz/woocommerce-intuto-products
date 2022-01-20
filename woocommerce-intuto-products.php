@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name:     Woocommerce Intuto Products
- * Plugin URI:      PLUGIN SITE HERE
+ * Plugin URI:      https://github.com/futurelabnz/woocommerce-intuto-products
  * Description:     Link your Intuto Account to your WooCommerce store to sell Intuto Collections
- * Author:          YOUR NAME HERE
- * Author URI:      YOUR SITE HERE
+ * Author:          FutureLab
+ * Author URI:      https://www.futurelab.digital/
  * Text Domain:     woocommerce-intuto-products
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         0.2.0
  *
  * @package         Woocommerce_Intuto_Products
  */
